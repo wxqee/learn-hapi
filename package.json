@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "8": "0.0.1",
+    "blipp": "^2.3.0",
     "hapi": "^16.4.3"
   }
 }
