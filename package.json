@@ -1,0 +1,15 @@
+{
+  "name": "hapi-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "8": "0.0.1",
+    "hapi": "^16.4.3"
+  }
+}
